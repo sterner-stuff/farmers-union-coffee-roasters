@@ -1,1 +1,75 @@
-{"name":"t:sections.header.name","type":"header","sections":{"4b852a94-9ec8-42e1-8ca2-e051ff8335b9":{"type":"custom-liquid","settings":{"custom_liquid":"<style>\n@font-face {\n  font-family: \"Ancho\";\n  src: url({{\"AnchoGX.ttf\"|file_url}}) format('truetype');\n  font-weight: 100 900;\n  font-style: normal;\n}\n<\/style>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","disabled":true,"settings":{"text":"🇺🇸 Closed 4th of July 🇺🇸","link":""}}},"block_order":["announcement-bar-0"],"settings":{"color_scheme":"","show_line_separator":true,"auto_rotate":false,"change_slides_speed":5}},"header":{"type":"header","custom_css":[".header__menu-item {font-family: \"Ancho\"; font-weight: 100; line-height: calc(1 + 0.3 \/ var(--font-heading-scale));}"],"settings":{"logo_position":"middle-left","menu":"main-menu","menu_type_desktop":"dropdown","sticky_header_type":"on-scroll-up","show_line_separator":true,"color_scheme":"accent-2","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"left","margin_bottom":0,"padding_top":20,"padding_bottom":12}}},"order":["4b852a94-9ec8-42e1-8ca2-e051ff8335b9","announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "4b852a94-9ec8-42e1-8ca2-e051ff8335b9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n@font-face {\n  font-family: \"Ancho\";\n  src: url({{\"AnchoGX.ttf\"|file_url}}) format('truetype');\n  font-weight: 100 900;\n  font-style: normal;\n}\n</style>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "SPRING SUPER SALE- 25% off Anaerobic Inmaculada from Colombia",
+            "link": "shopify://products/inmaculada-anaerobic-colombia"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".header__menu-item {font-family: \"Ancho\"; font-weight: 100; line-height: calc(1 + 0.3 / var(--font-heading-scale));}"
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "accent-2",
+        "menu_color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "enable_customer_avatar": true,
+        "mobile_logo_position": "left",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "4b852a94-9ec8-42e1-8ca2-e051ff8335b9",
+    "announcement-bar",
+    "header"
+  ]
+}
