@@ -1,1 +1,379 @@
-{"sections":{"6d46c1b3-2294-4b73-a95d-d8794f3299ab":{"type":"custom-liquid","custom_css":["p {margin: revert;}"],"settings":{"custom_liquid":"<div class=\"page-width\">\n<ul class=\"multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop\">\n<li class=\"multicolumn-list__item grid__item\">\n<h1>Wholesale<\/h1>\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<p>We offer wholesale programs that are as unique as your needs. We believe that no one company can do it all, so our focus is on being a part of the bigger coffee community here in Eugene.<\/p>\n<p>Our team has been working hard to build a strong foundation for our business from the ground up; we’re actively seeking out new partnerships with local businesses who share our passion for quality coffee and customer service. We are excited to grow with you as we continue to expand our offerings.<\/p>\n<\/li>\n<\/ul>\n<\/div>","color_scheme":"background-1","padding_top":68,"padding_bottom":68}},"72ded605-0b92-4d95-9615-6b0e83c5abad":{"type":"multicolumn","blocks":{"template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-0":{"type":"column","settings":{"title":"Guest Services","text":"<ul><li>Restaurants & Cafes<\/li><li>Hotels, BnB's, Airbnb's<\/li><\/ul>","link_label":"","link":""}},"template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-1":{"type":"column","settings":{"title":"Businesses","text":"<ul><li>Office Programs<\/li><li>Service Centers<\/li><\/ul>","link_label":"","link":""}},"template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-2":{"type":"column","settings":{"title":"Shops","text":"<ul><li>Specialty Retailers<\/li><li>Grocery Stores<\/li><\/ul>","link_label":"","link":""}}},"block_order":["template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-0","template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-1","template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-2"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":100}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":36,"padding_bottom":36}},"7605e401-64a7-447b-945c-4a93b950bd75":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/cafehover-min-scaled.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"background-1","image_behavior":"fixed","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"711cf462-6fa8-43ae-8926-79f5547614e8":{"type":"multirow","blocks":{"template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-0":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/FUCR-DRN-20000101-5616-x-3744-31-1-min-1024x576_29f952bd-30a8-43b1-9059-97bd9ecffc0b.jpg","caption":"","heading":"Restaurant & Cafe Programs","text":"<p>When it comes to coffee, we’re your partner in success. From pairing coffee with your menu, to creating specialty drinks and custom blends, we do it all. Plus, we’ll also help you save on your bottom line too with progressive discounts and staff training.<\/p>","button_label":"Wholesale Coffee Info","button_link":"#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"}},"template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-1":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/Farmers-Union-Wholesale-For-Restaurant-min_a918786b-d711-4375-85af-feadd7a6f4dd.jpg","caption":"","heading":"Hotel, Bnb & Airbnb programs","text":"<p>We offer customized coffee programs to fit your needs. We know there’s nothing like the smell of freshly roasted coffee in the morning to show your guests you care, but we can make them feel even more at home!<\/p>","button_label":"Wholesale Coffee Info","button_link":"#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"}},"template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-2":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/office-1-min-1024x683_8870189b-1993-4c4d-b294-22b069791bbd.jpg","caption":"","heading":"Office Programs","text":"<p>Coffee is the lifeblood of a productive office. And if you’re paying upwards of $2 a cup in your breakroom, you could be spending hundreds of dollars every month on mediocre coffee. With Farmers Union, you can brew better coffee at your office than you’ll ever find at the big name chains, and it costs just pennies per cup.<\/p>","button_label":"Wholesale Coffee Info","button_link":"#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"}},"e4c4d903-5a23-49d2-8a5b-9c14083be6e6":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/Farmers-Union-Wholesale-For-Statups-min_140efee7-59e0-48d9-854e-5ef091df9af6.jpg","caption":"","heading":"Service Center Programs","text":"<p>Are you a car dealership, repair shop, or high traffic business that loves treating it’s customers to a cup of coffee while they wait? Treat them to the best coffee experience possible with Farmers Union coffee. Our programs are designed to elevate your coffee offering from basic to cafe standard, with fresh micro-lots and simple brewing solutions that make sense for high traffic establishments with minimal equipment.<br\/><\/p>","button_label":"Wholesale Coffee Info","button_link":"#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"}},"05c3c201-0f04-4621-9cf9-d0ce8ed7771b":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/specialty-1-min-1024x683_bb05676e-2d01-4297-9da4-9a106315d6be.jpg","caption":"","heading":"Specialty Retailers","text":"<p>Are you a boutique store looking to give your customers the gift of local? Coffee is one of the most emerging trends on the shelf, and our wholesale programs make it easy for you to get started. We’re here to help you make a difference in your community and provide an incredible experience for your customers. We have a variety of options available, so whether you’re just starting out or already have an established coffee offering, we have something for you.<\/p>","button_label":"Wholesale Coffee Info","button_link":"#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"}},"9e3da5df-f438-4144-937d-b54db4d5eba3":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/grocery-1-min-1024x668_89459817-463a-4f09-991b-10ff67e259ca.jpg","caption":"","heading":"Grocery Stores","text":"<p>It’s no secret that coffee goes stale after only a few weeks, and your customers are going to notice if they get a cup of coffee that’s old and stale. That's why we prioritize fresh deliveries at a quantity that works for you!  We have had great success in both bulk bins, and retail with our eye catching and eco friendly packaging.<br\/><\/p>","button_label":"Wholesale Coffee Info","button_link":"#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"}}},"block_order":["template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-0","template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-1","template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-2","e4c4d903-5a23-49d2-8a5b-9c14083be6e6","05c3c201-0f04-4621-9cf9-d0ce8ed7771b","9e3da5df-f438-4144-937d-b54db4d5eba3"],"custom_css":[".global-media-settings {border-color: #f6f6db;}",".multirow .image-with-text:nth-child(3n + 2) .global-media-settings {border-color: #cad6d2;}",".multirow .image-with-text:nth-child(3n + 3) .global-media-settings {border-color: #efe0d6;}","a.button {text-align: center;}"],"settings":{"image_height":"medium","desktop_image_width":"medium","heading_size":"h1","text_style":"body","button_style":"primary","desktop_content_position":"middle","desktop_content_alignment":"left","image_layout":"alternate-right","section_color_scheme":"","row_color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"b28dd284-28a4-4a8a-ab1c-d2365e40784d":{"type":"contact-form","settings":{"heading":"Get More Information About Wholesale Coffee","heading_size":"h1","color_scheme":"","padding_top":76,"padding_bottom":36}},"76460577-0e85-46a8-b055-08aca91a64b8":{"type":"rich-text","blocks":{"template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-0":{"type":"heading","settings":{"heading":"Do you have any questions?","heading_size":"h1"}},"template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-1":{"type":"text","settings":{"text":"<p>We get asked a lot of the same questions about our coffee, so we thought we’d put together a list of some of the most common ones. If you have any other questions that aren’t answered here, please get in touch!<\/p>"}}},"block_order":["template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-0","template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"83af2b07-38a0-48ee-bfed-9b50b2494a03":{"type":"collapsible-content","blocks":{"template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-0":{"type":"collapsible_row","settings":{"heading":"Where do you roast your coffee?","icon":"none","row_content":"<p>Our flagship roastery and cafe are located in a historic agricultural building at 152 W 5th Ave, Eugene, Oregon.<\/p>","page":""}},"template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-1":{"type":"collapsible_row","settings":{"heading":"When do you roast?","icon":"none","row_content":"<p>We roast coffee at least twice weekly. We roast every wholesale coffee to order every time. Why? <br\/>Because great coffee has a shelf life.<\/p><p>Coffee is all about the flavor. That’s why we want you to enjoy the freshest <br\/>possible beans every time you brew up a pot.  <\/p>","page":""}},"template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-2":{"type":"collapsible_row","settings":{"heading":"How do your wholesale programs work?","icon":"none","row_content":"<p>We’re excited to work with you on creating a coffee program that makes your business memorable.<\/p><p>Here’s how it works:<\/p><p>We’ll meet to talk about your goals, values and what we can achieve together.<br\/>Then we’ll decide which coffees we might serve throughout the year and <br\/>plan any specialty drinks that might be right for your business. <br\/>Finally, we’ll come up with a roasting and delivery plan that's best for your needs.  <\/p><p><\/p>","page":""}},"template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-3":{"type":"collapsible_row","settings":{"heading":"Why Farmers union?","icon":"none","row_content":"<p>We’re not just a coffee shop. Or a coffee roaster. We’re your neighbors,<br\/> We’re a place to come together, build community and inspire each other.<br\/> We believe that good coffee impacts so much and so many.<br\/><br\/>We believe good coffee changes everything. It changes you, the person drinking it. Because finding the right beans, developing the skill and appreciation to brew them just right, makes you a happier person. And we believe that when you’re genuinely happy, you can do amazing things. Good coffee changes farmers. It’s true! When you think about it, harvesting the finest coffee doesn’t just happen—it takes great care and ingenuity from entire families and communities for generations. We think that’s pretty cool. And we want to support them. We think coffee roasting is a meticulous art that brings people joy, and our job is to make you proud to call Eugene home.<\/p>","page":""}}},"block_order":["template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-0","template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-1","template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-2","template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-3"],"custom_css":[".h0 {font-weight: 500;}",".accordion__title.inline-richtext.h4 {font-family: \"ancho\"; color: #11414d;}"],"settings":{"caption":"","heading":"","heading_size":"h0","heading_alignment":"center","layout":"row","color_scheme":"background-1","container_color_scheme":"background-2","open_first_collapsible_row":true,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":36,"padding_bottom":36}},"wholesale-intro":{"type":"multicolumn","blocks":{"28747a55-4604-4cbd-a990-58b19854bf9c":{"type":"column","settings":{"title":"Wholesale Partners","text":"","link_label":"","link":""}},"54a8a8e6-fb55-4203-a36d-d17d52165d53":{"type":"column","settings":{"title":"","text":"<p>Here are some of our current wholesale partners who use Farmers Union coffee. We’re so delighted to be able to help these companies serve their customers the best cups of coffee they can get!<\/p>","link_label":"","link":""}}},"block_order":["28747a55-4604-4cbd-a990-58b19854bf9c","54a8a8e6-fb55-4203-a36d-d17d52165d53"],"custom_css":["h3 {font-size: 28px;}","@media screen and (min-width: 750px) {li:first-of-type {flex-shrink: 1; flex-basis: auto; width: 25%; max-width: none; flex-grow: 0; } li:nth-of-type(2) {max-width: none; }}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":100,"padding_bottom":32}},"c5bb484e-2505-4ccc-87d2-03fac2fc426f":{"type":"custom-liquid","custom_css":[".img-container {display: flex; justify-content: center; align-content: space-between; flex-wrap: wrap; flex-direction: row; max-width: 80vw; margin: 10px 10%;}","img {max-width: 150px; height: auto; padding: 20px; object-fit: contain;}"],"settings":{"custom_liquid":"<div class=\"img-container\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-8.jpg?v=1685572992\" alt=\"Mac Logo\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-5.jpg?v=1685572992\" alt=\"Lox,Stocks and Bagels\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-6.jpg?v=1685572991\n\" alt=\"Better Living Room\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-2.jpg?v=1685572992\n\" alt=\"Kells Coffee\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-3.jpg?v=1685572991\n\" alt=\"\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-10.jpg?v=1685572991\n\" alt=\"\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-11.jpg?v=1685572991\n\" alt=\"Claim 52\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-7.jpg?v=1685572991\n\" alt=\"Friendly St Market\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-9.jpg?v=1685572992\n\" alt=\"\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-1.jpg?v=1685572992\n\" alt=\"Dahshire Brewing\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0068\/0941\/9840\/files\/logo-1-min1-4.jpg?v=1685572992\n\" alt=\"Creswell Bakery\">\n<\/div>","color_scheme":"background-1","padding_top":32,"padding_bottom":32}}},"order":["6d46c1b3-2294-4b73-a95d-d8794f3299ab","72ded605-0b92-4d95-9615-6b0e83c5abad","main","7605e401-64a7-447b-945c-4a93b950bd75","711cf462-6fa8-43ae-8926-79f5547614e8","b28dd284-28a4-4a8a-ab1c-d2365e40784d","76460577-0e85-46a8-b055-08aca91a64b8","83af2b07-38a0-48ee-bfed-9b50b2494a03","wholesale-intro","c5bb484e-2505-4ccc-87d2-03fac2fc426f"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "6d46c1b3-2294-4b73-a95d-d8794f3299ab": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "p {margin: revert;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">\n<ul class=\"multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop\">\n<li class=\"multicolumn-list__item grid__item\">\n<h1>Wholesale</h1>\n</li>\n<li class=\"multicolumn-list__item grid__item\">\n<p>We offer wholesale programs that are as unique as your needs. We believe that no one company can do it all, so our focus is on being a part of the bigger coffee community here in Eugene.</p>\n<p>Our team has been working hard to build a strong foundation for our business from the ground up; we’re actively seeking out new partnerships with local businesses who share our passion for quality coffee and customer service. We are excited to grow with you as we continue to expand our offerings.</p>\n</li>\n</ul>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 68,
+        "padding_bottom": 68
+      }
+    },
+    "72ded605-0b92-4d95-9615-6b0e83c5abad": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Guest Services",
+            "text": "<ul><li>Restaurants & Cafes</li><li>Hotels, BnB's, Airbnb's</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-1": {
+          "type": "column",
+          "settings": {
+            "title": "Businesses",
+            "text": "<ul><li>Office Programs</li><li>Service Centers</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shops",
+            "text": "<ul><li>Specialty Retailers</li><li>Grocery Stores</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-0",
+        "template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-1",
+        "template--14658650603586__72ded605-0b92-4d95-9615-6b0e83c5abad-168627028988d2aa0f-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b28dd284-28a4-4a8a-ab1c-d2365e40784d": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Get More Information About Wholesale Coffee",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 36
+      }
+    },
+    "7605e401-64a7-447b-945c-4a93b950bd75": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/cafehover-min-scaled.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "711cf462-6fa8-43ae-8926-79f5547614e8": {
+      "type": "multirow",
+      "blocks": {
+        "template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/FUCR-DRN-20000101-5616-x-3744-31-1-min-1024x576_29f952bd-30a8-43b1-9059-97bd9ecffc0b.jpg",
+            "caption": "",
+            "heading": "Restaurant & Cafe Programs",
+            "text": "<p>When it comes to coffee, we’re your partner in success. From pairing coffee with your menu, to creating specialty drinks and custom blends, we do it all. Plus, we’ll also help you save on your bottom line too with progressive discounts and staff training.</p>",
+            "button_label": "Wholesale Coffee Info",
+            "button_link": "#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"
+          }
+        },
+        "template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Farmers-Union-Wholesale-For-Restaurant-min_a918786b-d711-4375-85af-feadd7a6f4dd.jpg",
+            "caption": "",
+            "heading": "Hotel, Bnb & Airbnb programs",
+            "text": "<p>We offer customized coffee programs to fit your needs. We know there’s nothing like the smell of freshly roasted coffee in the morning to show your guests you care, but we can make them feel even more at home!</p>",
+            "button_label": "Wholesale Coffee Info",
+            "button_link": "#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"
+          }
+        },
+        "template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/office-1-min-1024x683_8870189b-1993-4c4d-b294-22b069791bbd.jpg",
+            "caption": "",
+            "heading": "Office Programs",
+            "text": "<p>Coffee is the lifeblood of a productive office. And if you’re paying upwards of $2 a cup in your breakroom, you could be spending hundreds of dollars every month on mediocre coffee. With Farmers Union, you can brew better coffee at your office than you’ll ever find at the big name chains, and it costs just pennies per cup.</p>",
+            "button_label": "Wholesale Coffee Info",
+            "button_link": "#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"
+          }
+        },
+        "e4c4d903-5a23-49d2-8a5b-9c14083be6e6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Farmers-Union-Wholesale-For-Statups-min_140efee7-59e0-48d9-854e-5ef091df9af6.jpg",
+            "caption": "",
+            "heading": "Service Center Programs",
+            "text": "<p>Are you a car dealership, repair shop, or high traffic business that loves treating it’s customers to a cup of coffee while they wait? Treat them to the best coffee experience possible with Farmers Union coffee. Our programs are designed to elevate your coffee offering from basic to cafe standard, with fresh micro-lots and simple brewing solutions that make sense for high traffic establishments with minimal equipment.<br/></p>",
+            "button_label": "Wholesale Coffee Info",
+            "button_link": "#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"
+          }
+        },
+        "05c3c201-0f04-4621-9cf9-d0ce8ed7771b": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/specialty-1-min-1024x683_bb05676e-2d01-4297-9da4-9a106315d6be.jpg",
+            "caption": "",
+            "heading": "Specialty Retailers",
+            "text": "<p>Are you a boutique store looking to give your customers the gift of local? Coffee is one of the most emerging trends on the shelf, and our wholesale programs make it easy for you to get started. We’re here to help you make a difference in your community and provide an incredible experience for your customers. We have a variety of options available, so whether you’re just starting out or already have an established coffee offering, we have something for you.</p>",
+            "button_label": "Wholesale Coffee Info",
+            "button_link": "#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"
+          }
+        },
+        "9e3da5df-f438-4144-937d-b54db4d5eba3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/grocery-1-min-1024x668_89459817-463a-4f09-991b-10ff67e259ca.jpg",
+            "caption": "",
+            "heading": "Grocery Stores",
+            "text": "<p>It’s no secret that coffee goes stale after only a few weeks, and your customers are going to notice if they get a cup of coffee that’s old and stale. That's why we prioritize fresh deliveries at a quantity that works for you!  We have had great success in both bulk bins, and retail with our eye catching and eco friendly packaging.<br/></p>",
+            "button_label": "Wholesale Coffee Info",
+            "button_link": "#shopify-section-template--14658650603586__b28dd284-28a4-4a8a-ab1c-d2365e40784d"
+          }
+        }
+      },
+      "block_order": [
+        "template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-0",
+        "template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-1",
+        "template--14658650603586__711cf462-6fa8-43ae-8926-79f5547614e8-1686270300ab7f917d-2",
+        "e4c4d903-5a23-49d2-8a5b-9c14083be6e6",
+        "05c3c201-0f04-4621-9cf9-d0ce8ed7771b",
+        "9e3da5df-f438-4144-937d-b54db4d5eba3"
+      ],
+      "custom_css": [
+        ".global-media-settings {border-color: #f6f6db;}",
+        ".multirow .image-with-text:nth-child(3n + 2) .global-media-settings {border-color: #cad6d2;}",
+        ".multirow .image-with-text:nth-child(3n + 3) .global-media-settings {border-color: #efe0d6;}",
+        "a.button {text-align: center;}"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "76460577-0e85-46a8-b055-08aca91a64b8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Do you have any questions?",
+            "heading_size": "h1"
+          }
+        },
+        "template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We get asked a lot of the same questions about our coffee, so we thought we’d put together a list of some of the most common ones. If you have any other questions that aren’t answered here, please get in touch!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-0",
+        "template--14658650603586__76460577-0e85-46a8-b055-08aca91a64b8-1686270227dc16affa-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "83af2b07-38a0-48ee-bfed-9b50b2494a03": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do you roast your coffee?",
+            "icon": "none",
+            "row_content": "<p>Our flagship roastery and cafe are located in a historic agricultural building at 152 W 5th Ave, Eugene, Oregon.</p>",
+            "page": ""
+          }
+        },
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When do you roast?",
+            "icon": "none",
+            "row_content": "<p>We roast coffee at least twice weekly. We roast every wholesale coffee to order every time. Why? <br/>Because great coffee has a shelf life.</p><p>Coffee is all about the flavor. That’s why we want you to enjoy the freshest <br/>possible beans every time you brew up a pot.  </p>",
+            "page": ""
+          }
+        },
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do your wholesale programs work?",
+            "icon": "none",
+            "row_content": "<p>We’re excited to work with you on creating a coffee program that makes your business memorable.</p><p>Here’s how it works:</p><p>We’ll meet to talk about your goals, values and what we can achieve together.<br/>Then we’ll decide which coffees we might serve throughout the year and <br/>plan any specialty drinks that might be right for your business. <br/>Finally, we’ll come up with a roasting and delivery plan that's best for your needs.  </p><p></p>",
+            "page": ""
+          }
+        },
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why Farmers union?",
+            "icon": "none",
+            "row_content": "<p>We’re not just a coffee shop. Or a coffee roaster. We’re your neighbors,<br/> We’re a place to come together, build community and inspire each other.<br/> We believe that good coffee impacts so much and so many.<br/><br/>We believe good coffee changes everything. It changes you, the person drinking it. Because finding the right beans, developing the skill and appreciation to brew them just right, makes you a happier person. And we believe that when you’re genuinely happy, you can do amazing things. Good coffee changes farmers. It’s true! When you think about it, harvesting the finest coffee doesn’t just happen—it takes great care and ingenuity from entire families and communities for generations. We think that’s pretty cool. And we want to support them. We think coffee roasting is a meticulous art that brings people joy, and our job is to make you proud to call Eugene home.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-0",
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-1",
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-2",
+        "template--14646129262658__83af2b07-38a0-48ee-bfed-9b50b2494a03-1685572753c5e8552f-3"
+      ],
+      "custom_css": [
+        ".h0 {font-weight: 500;}",
+        ".accordion__title.inline-richtext.h4 {font-family: \"ancho\"; color: #11414d;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "wholesale-intro": {
+      "type": "multicolumn",
+      "blocks": {
+        "28747a55-4604-4cbd-a990-58b19854bf9c": {
+          "type": "column",
+          "settings": {
+            "title": "Wholesale Partners",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54a8a8e6-fb55-4203-a36d-d17d52165d53": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Here are some of our current wholesale partners who use Farmers Union coffee. We’re so delighted to be able to help these companies serve their customers the best cups of coffee they can get!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "28747a55-4604-4cbd-a990-58b19854bf9c",
+        "54a8a8e6-fb55-4203-a36d-d17d52165d53"
+      ],
+      "custom_css": [
+        "h3 {font-size: 28px;}",
+        "@media screen and (min-width: 750px) {li:first-of-type {flex-shrink: 1; flex-basis: auto; width: 25%; max-width: none; flex-grow: 0; } li:nth-of-type(2) {max-width: none; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 32
+      }
+    },
+    "c5bb484e-2505-4ccc-87d2-03fac2fc426f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".img-container {display: flex; justify-content: center; align-content: space-between; flex-wrap: wrap; flex-direction: row; max-width: 80vw; margin: 10px 10%;}",
+        "img {max-width: 150px; height: auto; padding: 20px; object-fit: contain;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"img-container\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-8.jpg?v=1685572992\" alt=\"Mac Logo\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-5.jpg?v=1685572992\" alt=\"Lox,Stocks and Bagels\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-6.jpg?v=1685572991\n\" alt=\"Better Living Room\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-2.jpg?v=1685572992\n\" alt=\"Kells Coffee\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-3.jpg?v=1685572991\n\" alt=\"\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-10.jpg?v=1685572991\n\" alt=\"\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-11.jpg?v=1685572991\n\" alt=\"Claim 52\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-7.jpg?v=1685572991\n\" alt=\"Friendly St Market\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-9.jpg?v=1685572992\n\" alt=\"\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-1.jpg?v=1685572992\n\" alt=\"Dahshire Brewing\">\n<img src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/logo-1-min1-4.jpg?v=1685572992\n\" alt=\"Creswell Bakery\">\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "b28dd284-28a4-4a8a-ab1c-d2365e40784d",
+    "6d46c1b3-2294-4b73-a95d-d8794f3299ab",
+    "72ded605-0b92-4d95-9615-6b0e83c5abad",
+    "main",
+    "7605e401-64a7-447b-945c-4a93b950bd75",
+    "711cf462-6fa8-43ae-8926-79f5547614e8",
+    "76460577-0e85-46a8-b055-08aca91a64b8",
+    "83af2b07-38a0-48ee-bfed-9b50b2494a03",
+    "wholesale-intro",
+    "c5bb484e-2505-4ccc-87d2-03fac2fc426f"
+  ]
+}
