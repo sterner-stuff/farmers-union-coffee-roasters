@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "b28dd284-28a4-4a8a-ab1c-d2365e40784d": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact us to learn more",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
     "6d46c1b3-2294-4b73-a95d-d8794f3299ab": {
       "type": "custom-liquid",
       "custom_css": [
@@ -79,16 +89,6 @@
       "disabled": true,
       "settings": {
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b28dd284-28a4-4a8a-ab1c-d2365e40784d": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Get More Information About Wholesale Coffee",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 76,
         "padding_bottom": 36
       }
     },
