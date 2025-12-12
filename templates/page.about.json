@@ -111,7 +111,7 @@
         "8586e47e-6008-4300-a4c4-72d4b70cb546": {
           "type": "text",
           "settings": {
-            "text": "<p>We've been lucky enough to see our work through the lens of the impact it can have. And, we're excited to share with you some of the things we do to reduce, reuse and recycle—and the impact they can have. </p><h4>We think that doing small things with a lot of love can have a lot of impact on people and the world around us.</h4>"
+            "text": "<p>We've been lucky enough to see our work through the lens of the impact it can have. And, we're excited to share with you some of the things we do to reduce, reuse and recycle.</p><h4>We think that doing small things with a lot of love can have a lot of impact on people and the world around us.</h4>"
           }
         }
       },
@@ -187,7 +187,7 @@
         "7dabd83a-8de9-427a-8ac5-de66a23f9b2c": {
           "type": "text",
           "settings": {
-            "text": "<p>We're proud to say that we're committed to using every bit of our coffee: from the grounds to the chaff. We compost all of our spent coffee grounds—which go on to make their way into local gardens—and we compost all of our food waste through the city of Eugene's \"Love Food Not Waste\" program.</p>",
+            "text": "<p>We're proud to say that we're committed to using every bit of our coffee: from the grounds to the chaff. We compost all of our spent coffee grounds. We also compost all of our food waste through the city of Eugene's \"Love Food Not Waste\" program.</p>",
             "text_style": "body"
           }
         }
@@ -202,48 +202,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/compostantigua-1-min.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "45c9c473-bf9d-4f16-8a31-fdc7812ce553": {
-      "type": "image-with-text",
-      "blocks": {
-        "61dfeb23-b1c0-41b3-9173-9b7f357c2fe1": {
-          "type": "heading",
-          "settings": {
-            "heading": "We deliver coffee with an electric vehicle, in reusable containers",
-            "heading_size": "h1"
-          }
-        },
-        "59418751-7754-4822-8e8b-cf3ec949bc6d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Food grade plastics are designed with an additive that prevents them from leaching into your coffee beans or other products. By using these bins, we're reducing the amount of plastic that ends up in landfills. We think it's worth it!  And with our electric delivery vehicle, that's less CO2 going into the air. We're going the distance for sustainability.<br/>\t</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "61dfeb23-b1c0-41b3-9173-9b7f357c2fe1",
-        "59418751-7754-4822-8e8b-cf3ec949bc6d"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.5rem;}",
-        ".global-media-settings {border-color: #cad6d2;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/00000PORTRAIT_00000_BURST20190531094446140-1152x1536.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -550,7 +508,6 @@
     "3379561b-40e9-4793-a6b4-fe911ad4b9e5",
     "a410f0bd-0dd9-4b6d-90c3-38584dda2319",
     "f275c93a-70e9-49ba-be32-d2a36ee6ec16",
-    "45c9c473-bf9d-4f16-8a31-fdc7812ce553",
     "8c51b15a-55a1-4d51-ad40-6f140f7e068f",
     "f1648128-07c8-4bdd-953c-e69a4f3523fe",
     "b9fe5450-efd9-40cd-84cb-156666d08d68",
