@@ -19,7 +19,7 @@
         "@media screen and (max-width: 749px) {.image-box {flex-direction: column; }}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"image-box\">\n<div class=\"text-box\">\n<h2>The <span id=\"blue-text\">Epic</span>\nStory</h2>\n<h3>Farmers Union</h3>\n<p>We’re a small batch coffee roastery located in Eugene, Oregon and we roast great coffee with love for the common good.</p>\n<p>152 W. 5th Ave, Eugene, OR 97401\n\n6am-5pm Weekdays\n\n7am-5pm Weekends</p>\ninfo@farmersunioncoffee.com</div>\n<div style=\"text-align:center;flex:1 1 auto;\">\n<img class=\"epic-image\" src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/hand-made-farmers-unioin.svg?v=1685490730\">\n</div>\n</div>",
+        "custom_liquid": "<div class=\"image-box\">\n<div class=\"text-box\">\n<h2>The <span id=\"blue-text\">Epic</span>\nStory</h2>\n<h3>Farmers Union</h3>\n<p>We’re a small batch coffee roastery located in Eugene, Oregon and we roast great coffee with love for the common good.</p>\n<p>152 W. 5th Ave, Eugene, OR 97401\n\n6am-6pm Weekdays\n\n7am-6pm Weekends</p>\ninfo@farmersunioncoffee.com</div>\n<div style=\"text-align:center;flex:1 1 auto;\">\n<img class=\"epic-image\" src=\"https://cdn.shopify.com/s/files/1/0068/0941/9840/files/hand-made-farmers-unioin.svg?v=1685490730\">\n</div>\n</div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
