@@ -107,7 +107,7 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p>152 W. 5th Ave, Eugene, OR 97401</p><p>6am-5pm Weekdays</p><p>7am-5pm Weekends</p><p></p><p></p><p></p>",
+    "brand_description": "<p>152 W. 5th Ave, Eugene, OR 97401</p><p>6am-6pm Weekdays</p><p>7am-6pm Weekends</p><p></p><p></p><p></p>",
     "brand_image_width": 100,
     "social_facebook_link": "https://www.facebook.com/Farmers-Union-Coffee-Roasters-100640665084147",
     "social_instagram_link": "https://www.instagram.com/farmersunionroasters/",
@@ -156,11 +156,6 @@
           "show_address_change_note": true,
           "container_selector": "main"
         }
-      },
-      "8857984110089213392": {
-        "type": "shopify://apps/hextom-sales-boost/blocks/usb-embeded-block/00e81c42-8ae7-4b0b-b43d-99393b885fc4",
-        "disabled": false,
-        "settings": {}
       }
     },
     "color_schemes": {
