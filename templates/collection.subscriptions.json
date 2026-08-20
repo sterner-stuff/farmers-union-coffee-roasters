@@ -82,7 +82,7 @@
         "ec2bd58b-5fd1-4668-b22b-a0c94becc417": {
           "type": "text",
           "settings": {
-            "text": "<p>Are you a coffee connoisseur that loves to try something new? Sign up for our Adventure Series and let us amaze you. Each month we feature a fresh, meticulously sourced and expertly roasted single-origin micro-lots from around the world.</p><p>Our coffee subscription is curated by our expert team of coffee experts who have spent years honing their craft, and they’re ready to share their knowledge with you!</p>",
+            "text": "<p>Are you a coffee connoisseur that loves to try something new? Sign up for our Adventure Series and let us amaze you. </p><p>Each <strong>month</strong> we feature a fresh, meticulously sourced and expertly roasted single-origin micro-lots from around the world. </p><p>Our coffee subscription is curated by our expert team of coffee experts who have spent years honing their craft, and they’re ready to share their knowledge with you!</p>",
             "text_style": "body"
           }
         },
@@ -130,7 +130,7 @@
         "template--14646129164354__c9a53c20-d09a-4862-ae0b-b2b57d03bffe-1685658640cabeeab7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Looking for a daily drinker that’s approachable, but still full of flavor? Our Family Series is here for you. Enjoy our deeply noted coffee blend that is likely to please everyone. Roasted to taste great with or without cream and sugar.</p><p>Our coffee subscription is curated by our expert team of coffee experts who have spent years honing their craft, and they’re ready to share their knowledge with you!</p>",
+            "text": "<p>Looking for a daily drinker that’s approachable, but still full of flavor? Our Family Series is here for you. Enjoy our deeply noted coffee blend that is likely to please everyone. Roasted to taste great with or without cream and sugar. </p><p>You will receive our<strong> Cultivator House Blend </strong>with each delivery. Predictable, perfectly roasted, and delicious.</p><p>Our coffee subscription is curated by our expert team of coffee experts who have spent years honing their craft, and they’re ready to share their knowledge with you!</p>",
             "text_style": "body"
           }
         },
